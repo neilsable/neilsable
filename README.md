@@ -35,7 +35,7 @@ My work focuses on **clarity, structure, and business impact** — not dashboard
 ### InsightDeck  
 **Automated analytics → executive PowerPoint**
 - CSV → KPIs → charts → leadership-ready slides  
-👉 https://insight-deck-sandy.vercel.app/
+👉 https://insight-deck-lemon.vercel.app/
 
 ---
 
