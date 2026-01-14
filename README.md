@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/neil-sable" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Neil%20Sable-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://insight-deck-sandy.vercel.app/" target="_blank">
+  <a href="https://insight-deck-lemon.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Product-InsightDeck-black?style=for-the-badge"/>
   </a>
 </p>
