@@ -22,9 +22,9 @@
 ## What I build
 
 I design **decision-grade products** that sit between:
-- raw data
-- operational complexity
-- executive decision-making
+- raw data  
+- operational complexity  
+- executive decision-making  
 
 My work focuses on **clarity, structure, and business impact** — not dashboards for their own sake.
 
@@ -34,33 +34,54 @@ My work focuses on **clarity, structure, and business impact** — not dashboard
 
 ### InsightDeck  
 **Automated analytics → executive PowerPoint**
+
 - CSV → KPIs → charts → leadership-ready slides  
+- Built for consulting, strategy, and exec briefings  
+
 👉 https://insight-deck-lemon.vercel.app/
 
 ---
 
 ### SAP BTP Ops Copilot  
 **From platform logs to incident briefs**
-- Log ingestion
-- Severity & root-cause framing
+
+- Log ingestion & signal triage  
+- Severity, root-cause & blast-radius framing  
 - Executive summaries for ops & leadership  
+
 👉 https://btp-ops-copilot-x7px.vercel.app/
+
+---
+
+### 📊 DFSE — Decision-Driven Forecasting & Segmentation Engine  
+**From historical data → forward decisions**
+
+A **production-ready analytics engine** combining **demand forecasting** and **customer segmentation** to support real business decisions — not just model outputs.
+
+- 📉 60-day demand forecasting with confidence intervals  
+- 👥 RFM customer segmentation with actionable groups  
+- 🧠 Decision-first design: business summaries + technical outputs  
+- ⚙️ Fully automated pipeline (`make run`)  
+
+👉 https://github.com/neilsable/dfse
 
 ---
 
 ### D-Card (UCL Project)  
 **Digital university identity prototype**
-- Mobile-first
-- Role-based access
-- Wallet-ready credentials  
+
+- Mobile-first, wallet-ready credentials  
+- Role-based access for campus services  
+
 👉 https://d-card-prototype.vercel.app/
 
 ---
 
 ### Analytics & Strategy Dashboards  
+
 - SAP cloud transformation analysis  
 - Retail performance dashboards  
-- Population & financial analytics (synthetic data)
+- Population & financial analytics (synthetic data)  
 
 Designed for **consulting, strategy, and leadership conversations**.
 
@@ -69,7 +90,6 @@ Designed for **consulting, strategy, and leadership conversations**.
 ## Focus Areas
 
 ```text
-
 Product Strategy
 Cloud & Platform Economics
 Automation & Decision Support
